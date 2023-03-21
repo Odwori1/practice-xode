@@ -33,7 +33,7 @@ int main()
 	return 0;
 	}	
 
-/**
+
 {
 	int number = 5;
 	int factorial = 1; // factorial is initialized to 1 because 1 is the lowest number 5 can be multiplied by and not change its value
@@ -49,4 +49,4 @@ int main()
 
 	return (0);
 }
-*/
+

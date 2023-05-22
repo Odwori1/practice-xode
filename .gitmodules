@@ -1,0 +1,3 @@
+[submodule "extended_c/extended_c/alx-higher_level_programming"]
+	path = extended_c/extended_c/alx-higher_level_programming
+	url = https://github.com/Odwori1/alx-higher_level_programming.git

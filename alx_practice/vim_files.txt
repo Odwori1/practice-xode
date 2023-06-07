@@ -1,0 +1,6 @@
+i <takes you to insert mode where you can edit your text
+esc takes you to command mode
+h moves to the left
+j moves down
+k up one line
+l right one space>

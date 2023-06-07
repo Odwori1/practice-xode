@@ -1,0 +1,63 @@
+auto: Used to declare a local variaible within a function that has automatic storage duration.
+
+break: Used to exit out of a loop or switch statement.
+
+case: Used to specify a particular condition in a switch statement.
+
+char: Used to declare a character variable or an array of characters.
+
+const: Used to declare a variable whose value cannot be changed.
+
+continue: Used to skip the current iteration of a loop and move to the next iteration.
+
+default: Used as a default condition in a switch statement.
+
+do: Used to start a do-while loop.
+
+double: Used to declare a double-precision floating-point variable.
+
+else: Used in conjunction with the if statement to execute a block of code if the condition is not true.
+
+enum: Used to declare an enumeration.
+
+extern: Used to declare a variable or function that is defined in another file.
+
+float: Used to declare a single-precision floating-point variable.
+
+for: Used to start a for loop.
+
+goto: Used to transfer control to a different part of the program.
+
+if: Used to start an if statement.
+
+int: Used to declare an integer variable.
+
+long: Used to declare a long integer variable.
+
+register: Used to request that a variable be stored in a CPU register for faster access.
+
+return: Used to return a value from a function.
+
+short: Used to declare a short integer variable.
+
+signed: Used to declare a signed variable.
+
+sizeof: Used to determine the size of a data type or variable.
+
+static: Used to declare a variable or function that retains its value between function calls.
+
+struct: Used to declare a structure.
+
+switch: Used to start a switch statement.
+
+typedef: Used to define a new type using an existing data type.
+
+union: Used to declare a union.
+
+unsigned: Used to declare an unsigned variable.
+
+void: Used to indicate that a function returns no value, or to declare a pointer to an unspecified type.
+
+volatile: Used to indicate that a variable may be modified outside of the program's control.
+
+while: Used to start a while loop.

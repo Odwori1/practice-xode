@@ -4,7 +4,7 @@
 
 int _printf(const char *format,...)
 { 
-	va_list head;
+	va_list head
 	int i = 0, counter = 0;
 	
 	va_start(head, format);

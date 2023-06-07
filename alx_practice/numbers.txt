@@ -1,0 +1,2 @@
+#!/bin/bash
+echo Number_{0..100}

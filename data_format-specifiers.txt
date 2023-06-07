@@ -1,0 +1,16 @@
+Data Type	Usage	Format Specifier
+char	Character data type used to store a single character or integer value	%c
+unsigned char	Unsigned version of char, used to store positive integer values only	%c
+short	Integer data type used to store small integer values	%hd or %hi
+unsigned short	Unsigned version of short, used to store positive integer values only	%hu
+int	Integer data type used to store integer values	%d or %i
+unsigned int	Unsigned version of int, used to store positive integer values only	%u
+long	Integer data type used to store large integer values	%ld or %li
+unsigned long	Unsigned version of long, used to store positive integer values only	%lu
+long long	Integer data type used to store very large integer values	%lld or %lli
+unsigned long long	Unsigned version of long long, used to store positive integer values only	%llu
+float	Floating-point data type used to store decimal values	%f
+double	Double-precision floating-point data type used to store decimal values	%lf
+long double	Higher-precision floating-point data type used to store decimal values	%Lf
+_Bool	Boolean data type used to store true or false values	%d or %i
+void	Void data type used to indicate that a function returns no value or a pointer that has no type	N/A

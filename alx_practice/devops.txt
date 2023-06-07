@@ -1,0 +1,18 @@
+task 0 alias ls="rm *"
+task 1 echo "hello $USER"
+task 2 PATH=$PATH:/action
+task 3 echo $PATH | tr ":" "\n" | wc -l
+task 4 printenv
+task 5 set
+task 6 BEST=School
+task 7 export BEST=School
+task 8 echo $(($TRUEKNOWLEDGE+128))
+task 9 echo "$(($POWER / $DIVIDE))"
+task 10 echo "$(($BREATH ** $LOVE))"
+task 11 echo "$((2#$BINARY))"
+task 12 echo {a..z}{a..z} | tr " " "\n" | grep -v "oo"
+task 13 printf "%0.2f\n" $NUM
+task 100 printf "%x\n" $DECIMAL
+task 101 tr 'A-Za-z' 'N-ZA-Mn-za-m'
+task 102 perl -lne 'print if $. %2==1'
+task 103 printf '%o\n' $((5#$( echo $WATER | tr water 01234) + 5#$( echo $STIR | tr stir. 01234))) | tr 01234567 bestchol
